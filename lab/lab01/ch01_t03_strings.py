@@ -1,0 +1,1 @@
+print("Hello" + "Cyrus Wong")
