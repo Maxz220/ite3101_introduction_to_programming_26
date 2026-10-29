@@ -1,2 +1,2 @@
 def answer()->int;
-    return 42
+    return 42;
