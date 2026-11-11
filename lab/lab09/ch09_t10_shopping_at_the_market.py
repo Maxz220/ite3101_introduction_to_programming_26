@@ -1,6 +1,3 @@
-groceries = ["banana", "orange", "apple"]
-
-ch09 t11
 from typing import List
 
 
