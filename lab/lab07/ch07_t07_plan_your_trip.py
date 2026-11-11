@@ -1,3 +1,8 @@
+global hotel_cost
+global plane_ride_cost
+global rental_car_cost
+
+
 def hotel_cost(nights: int) -> int:
     return 140 * nights
 
